@@ -1,4 +1,4 @@
-# AudioRecorder
+# AudioRecorder - Android Application
 
 <img alt="Logo" src="app/src/main/res/drawable-xhdpi/record_btn_recording.png" width="120" />
 
