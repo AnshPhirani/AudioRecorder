@@ -33,7 +33,8 @@ public class AudioListAdapter extends RecyclerView.Adapter<AudioListAdapter.Audi
 
     @Override
     public void onBindViewHolder(@NonNull AudioViewHolder holder, int position) {
-        holder.listTitle.setText(allFiles[position].getName());
+        String title = allFiles[position].getName().replaceAll(".3gp", "");
+        holder.listTitle.setText(title);
         holder.listDate.setText(timeAgo.getTimeAgo(allFiles[position].lastModified()));
     }
 
