@@ -10,7 +10,7 @@ Contains no ads or unnecessary permissions. It is fully opensource.
 <hr/>
 
 <p align="center">
-  <img src="ScreenShots/MainActivity.png" width="256" height="455">
-  <img src="ScreenShots/AudioListActivity1.png" width="256" height="455">
-  <img src="ScreenShots/AudioListActivity2.png" width="256" height="455">
+  <img src="ScreenShots/MainActivity.png" width="240" height="455">
+  <img src="ScreenShots/AudioListActivity1.png" width="240" height="455">
+  <img src="ScreenShots/AudioListActivity2.png" width="240" height="455">
 </p>
